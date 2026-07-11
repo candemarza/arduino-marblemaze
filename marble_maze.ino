@@ -48,7 +48,7 @@ void loop() {
   updateServoPosition(posX, axisX, SERVO_X_HOME, servoX);
   updateServoPosition(posY, axisY, SERVO_Y_HOME, servoY);
 
-  delay(5);
+  delay(70);
 }
 
 void updateServoPosition(int &pos, int axisValue, int homePos, Servo &servo) {
