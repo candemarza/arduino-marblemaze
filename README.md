@@ -38,4 +38,4 @@ El proyecto fue desarrollado a partir del tutorial de Instructables de **ahmedaz
 ## Referencias
 
 - Tutorial original: https://www.instructables.com/Arduino-Marble-Maze-Labyrinth/
-- Video demostración: https://youtube.com/shorts/6oUgudLQrGA
+- Video demostración: https://youtube.com/shorts/JfN7e2DRWYI
